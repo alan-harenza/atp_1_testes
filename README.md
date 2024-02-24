@@ -8,5 +8,3 @@ Para saber os exercícios, olhar o arquivo "atp1_testes.pdf"
 
 
 Resultado exercício 1:
-
-![alt text](imagem_test_calculo_salario_liquido-1.JPG)
