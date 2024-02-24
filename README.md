@@ -10,5 +10,5 @@ Para saber os exercícios, olhar o arquivo "atp1_testes.pdf"
 Resultado exercício 1:
 
 <p align="center">
-  <img src=r"imagens\imagem_test_calculo_salario_liquido.jpg" width="350" title="Resultado exercício um">
+  <img src=r"imagem_test_calculo_salario_liquido.jpg" width="350" title="Resultado exercício um">
 </p>
