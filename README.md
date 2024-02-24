@@ -8,3 +8,13 @@ Para saber os exercícios, olhar o arquivo "atp1_testes.pdf"
 
 
 Resultado exercício 1:
+
+
+Resultado exercício 2:
+
+
+Resultado exercício 3:
+
+
+Resultado exercício 4:
+
