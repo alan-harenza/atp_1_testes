@@ -7,14 +7,7 @@ Repositório com função de concentrar as atividades da aula de automação e t
 Para saber os exercícios, olhar o arquivo "atp1_testes.pdf"
 
 
-Resultado exercício 1:
+Execução Testes Terminal:
 
-
-Resultado exercício 2:
-
-
-Resultado exercício 3:
-
-
-Resultado exercício 4:
+![Alt Execução testes termial](imagens_testes.PNG)
 
